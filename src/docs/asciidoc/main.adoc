@@ -1,0 +1,11 @@
+= Example
+Some Body <email.address@example.com>
+1, 17.4.2015: DRAFT
+:numbered:
+:pagenums:
+:toc:
+:source-highlighter: coderay
+
+== Example
+
+Something something.
